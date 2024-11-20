@@ -31,37 +31,40 @@ A clean and responsive portfolio website showcasing my projects, skills, and exp
    git clone https://github.com/AjmalDevala/portfolio/.git
 
 Navigate to the project folder:
-
 cd portfolio
+
 Install dependencies:
-
 npm install
-Start the development server:
 
+Start the development server:
 npm start
+
 Open your browser and visit:
 arduino
 
 http://localhost:3000
 
 📂 Sections
+
 Home: Brief introduction and portfolio overview.
 About Me: Overview of my skills and experience.
 Projects: List of my work with descriptions and links.
 Contact: A simple form to connect directly with me.
+
 🌟 Future Enhancements
 🎨 Add animations and transitions for a better user experience.
 ✍️ Integrate a blog section to share my insights.
 🌍 Deploy the website to a live server for global accessibility.
 📄 License
+
 This project is licensed under the MIT License.
 
 📞 Contact
 Feel free to reach out to me via:
 
 Email: ajmaldevala@gmail.com
-GitHub: ajmaldevala
-LinkedIn: <a> href"https://www.linkedin.com/in/ajmal-devala/" </a>
+GitHub: https://github.com/AjmalDevala/
+LinkedIn: href"https://www.linkedin.com/in/ajmal-devala/" 
 
 markdown
 
