@@ -1,173 +1,68 @@
-<div align="center">
+# Portfolio Website 👨‍💻
 
-# 👨‍💻 Portfolio Website
+A clean, responsive portfolio showcasing my projects and skills. Built with React and Bootstrap.
 
-### Modern & Interactive Personal Portfolio
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2-purple?logo=bootstrap)](https://getbootstrap.com/)
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://ajmaldevala.com)
 
-[About](#-about) • [Features](#-features) • [Demo](#-live-demo) • [Setup](#-setup) • [Contact](#-lets-connect)
+## Features ✨
 
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)](https://ajmaldevala.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+- **Responsive Design** - Works perfectly on all devices
+- **Project Showcase** - Display of my work with live demos
+- **Contact Form** - Easy way to get in touch
+- **Smooth Navigation** - Simple and intuitive interface
 
----
+## Technologies 🛠️
 
-</div>
+- React.js
+- Bootstrap
+- JavaScript
+- CSS
 
-## 🎯 About
+## Quick Start 🚀
 
-A modern, responsive portfolio website showcasing my professional journey, projects, and technical expertise. Built with React and Bootstrap, featuring a clean design and smooth user experience.
-
-## ✨ Features
-
-<table>
-<tr>
-<td>
-
-### Design & Interface
-- 📱 **Responsive Layout**
-  - Mobile-first approach
-  - Cross-device compatibility
-- 🎨 **Modern UI/UX**
-  - Clean aesthetics
-  - Intuitive navigation
-- 🔄 **Smooth Transitions**
-  - Scroll animations
-  - Interactive elements
-  
-</td>
-<td>
-
-### Core Sections
-- 💼 **Project Showcase**
-  - Live demos
-  - GitHub links
-- 📝 **Skills Display**
-  - Technical expertise
-  - Tool proficiency
-- 📬 **Contact Integration**
-  - Form functionality
-  - Direct messaging
-  
-</td>
-</tr>
-</table>
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td>
-
-### Frontend
-- **React.js**
-  - Components
-  - Hooks
-  - Router
-- **Bootstrap 5**
-  - Grid system
-  - Components
-  - Utilities
-
-</td>
-<td>
-
-### Additional Tools
-- **JavaScript**
-  - ES6+ features
-  - DOM manipulation
-- **CSS3**
-  - Custom animations
-  - Media queries
-  - Flexbox/Grid
-
-</td>
-</tr>
-</table>
-
-## 🚀 Setup
-
-1. **Clone the Repository**
+1. Clone the repo
    ```bash
    git clone https://github.com/AjmalDevala/portfolio.git
    cd portfolio
    ```
 
-2. **Install Dependencies**
+2. Install packages
    ```bash
    npm install
    ```
 
-3. **Start Development Server**
+3. Run the app
    ```bash
    npm start
    ```
 
-4. **View the Website**
-   ```
-   http://localhost:3000
-   ```
+4. Open http://localhost:3000
 
-## 📌 Key Sections
+## Sections 📑
 
-### 🏠 Home
-- Professional introduction
-- Quick navigation
-- Call-to-action buttons
+- **Home** - Brief introduction
+- **About** - Skills and experience
+- **Projects** - Showcased work
+- **Contact** - Get in touch
 
-### 👤 About Me
-- Professional journey
-- Technical expertise
-- Personal achievements
+## Future Updates 🌟
 
-### 💼 Projects
-- Featured work
-- Technical details
-- Live demos & code
+- Add blog section
+- Implement dark mode
+- Add more project demos
+- Enhanced animations
 
-### 📬 Contact
-- Contact form
-- Social links
-- Professional email
+## Contact 📬
 
-## 🎯 Future Roadmap
+- Email: ajmaldevala@gmail.com
+- GitHub: [AjmalDevala](https://github.com/AjmalDevala/)
+- LinkedIn: [Ajmal Devala](https://www.linkedin.com/in/ajmal-devala/)
 
-- [ ] Add interactive project demos
-- [ ] Integrate blog section
-- [ ] Add dark/light theme toggle
-- [ ] Implement multilingual support
-- [ ] Add case studies section
+## License 📄
 
-## 📱 Responsive Design
-
-The website is fully responsive across all devices:
-- 📱 Mobile (320px - 480px)
-- 📱 Tablet (481px - 768px)
-- 💻 Laptop (769px - 1024px)
-- 🖥️ Desktop (1025px+)
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-green?style=for-the-badge&logo=google-chrome)](https://ajmaldevala.com)
-[![Email](https://img.shields.io/badge/Email-ajmaldevala%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ajmaldevala@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AjmalDevala-black?style=for-the-badge&logo=github)](https://github.com/AjmalDevala/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajmal_Devala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajmal-devala/)
-
-</div>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License - feel free to use this project for your own portfolio!
 
 ---
-
-<div align="center">
-
-### Built with ❤️ by Ajmal Devala
-
-[![Portfolio Status](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&up_message=online&url=https://ajmaldevala.com)](https://ajmaldevala.com)
-
-</div>
+Made with ❤️ by Ajmal Devala
